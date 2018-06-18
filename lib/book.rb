@@ -9,4 +9,7 @@ end
 def title
   @title
 end
+def turn_page
+  puts "turnt"
+end
 end
