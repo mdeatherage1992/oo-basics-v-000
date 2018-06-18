@@ -10,6 +10,6 @@ def title
   @title
 end
 def turn_page
-  puts "turnt"
+  puts "Flipping the page...wow, you read fast!"
 end
 end
