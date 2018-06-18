@@ -8,4 +8,16 @@ end
 def title
   @title
 end
+def initialize(genre)
+  @genre = genre
+end
+def genre=(genre_name)
+  @genre = genre
+end
+def genre
+  @genre
+end
+
+
+
 end
